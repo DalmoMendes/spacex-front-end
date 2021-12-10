@@ -17,7 +17,7 @@ SpaceX Front-End. Neste projeto implementei diversos recursos de css como: flex-
 <img src="https://github.com/DalmoMendes/spacex-front-end/blob/master/images-front/Footer.png" />
 
 # :anger: SpaceX Streaming Front-end
-<img src="https://github.com/DalmoMendes/spacex-front-end"/>
+<a href="https://github.com/DalmoMendes/spacex-front-end">:octocat: GitHub.com/DalmoMendes/spacex-front-end</a>
 
 # :rocket: ceproirr 
 <p>by Dalmo Mendes - dalmosilvamendens@gmail.com</p>
